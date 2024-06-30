@@ -9,9 +9,9 @@ export default defineConfig({
     strictPort: true,
     port: 5173,
   },
-    build: {
-    rollupOptions: {
-      external: ['regenerator-runtime/runtime']
-    }
-  }
+  //   build: {
+  //   rollupOptions: {
+  //     external: ['regenerator-runtime/runtime']
+  //   }
+  // }
 })
