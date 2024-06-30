@@ -1,5 +1,5 @@
 import React from 'react'
-import 'regenerator-runtime/runtime'; // Add this line
+// import 'regenerator-runtime/runtime'; // Add this line
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import { AuthContextProvider } from '../Context/AuthContext.jsx'
